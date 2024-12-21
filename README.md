@@ -1,4 +1,4 @@
-
+![2](https://github.com/user-attachments/assets/8bf10ba9-6b90-4bf2-87f4-2b79afdd185a)
 - Flutter Object Detection App
 
 - Project Description
@@ -33,6 +33,17 @@
     6. image: for converter frame to image to use in captured screen
     7. provider is a stateMangement  
     
+- Screen Shots
+![Uploading 2.jp!
+[1](https://github.com/user-attachments/assets/314e56c2-6d7c-438a-915a-fcee62c6ba5d)
+![9](https://github.com/user-attachments/assets/44283410-58dc-48e6-8a92-e98a3879096b)
+![8](https://github.com/user-attachments/assets/05c17eb0-e34d-474b-87f1-af2f3ba3e859)
+![7](https://github.com/user-attachments/assets/617a470f-f2eb-493e-8473-baca434827aa)
+![6](https://github.com/user-attachments/assets/019ce696-b7dd-4ea0-95b9-4aae8a571dc0)
+![5](https://github.com/user-attachments/assets/52b328ba-ec08-4c55-a198-9c2a00922143)
+![4](https://github.com/user-attachments/assets/0676ac89-0aaa-443a-bf5b-62f085ed9c08)
+![3](https://github.com/user-attachments/assets/711b97b2-b318-4998-9fba-b82037cfe415)
+g…]()
 
 
 
