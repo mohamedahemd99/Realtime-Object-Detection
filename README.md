@@ -1,8 +1,3 @@
-
-
-
-https://github.com/user-attachments/assets/dacf15b2-b27b-4c69-b92e-796a586b8660
-
 Flutter Object Detection App
 📖 Project Description
 A Flutter application integrating object detection with real-time user guidance and image capture. This app leverages advanced tools like TensorFlow Lite and YOLOv8 for accurate object detection, while ensuring smooth functionality with state-of-the-art frameworks and responsive UI components.
@@ -31,30 +26,24 @@ Clean project structure using the MVVM (Model-View-ViewModel) pattern for mainta
 🚀 Getting Started
 Prerequisites
 Flutter SDK version: >=3.5.3
-Android Studio / Xcode (for Android and iOS builds)
-ARCore-supported devices
+
 Installation
 Clone the repository:
+git clone https://github.com/mohamedahemd99/Realtime-Object-Detection.git
 
-
-git clone https://github.com/your-repo/flutter-object-detection-app.git  
 Navigate to the project directory:
-
-
-
 cd flutter-object-detection-app  
+
 Install dependencies:
-
-
 flutter pub get  
+
 Run the application:
-
-
 flutter run  
 
     
 - Screen Shots
  
+https://github.com/user-attachments/assets/dacf15b2-b27b-4c69-b92e-796a586b8660
 
 <img src="https://github.com/user-attachments/assets/561e5601-383e-47d2-a533-2204753d8d8d" width="300" />
 <img src="https://github.com/user-attachments/assets/5426eb8d-9bf5-4e1d-aff7-90cfdab009d9" width="300" />
