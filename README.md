@@ -3,41 +3,55 @@
 
 https://github.com/user-attachments/assets/dacf15b2-b27b-4c69-b92e-796a586b8660
 
+Flutter Object Detection App
+📖 Project Description
+A Flutter application integrating object detection with real-time user guidance and image capture. This app leverages advanced tools like TensorFlow Lite and YOLOv8 for accurate object detection, while ensuring smooth functionality with state-of-the-art frameworks and responsive UI components.
+
+🔑 Key Features
+Dynamic Object Marker Placement
+
+Real-time placement of visual markers on detected objects.
+Markers adjust dynamically based on camera frames.
+Object Detection (YOLOv8)
+
+Integrated YOLOv8 with TensorFlow Lite for on-device object detection in real-time.
+Capable of recognizing a wide range of objects in various environments.
+Photo Management
+
+Capture photos when the detection confidence exceeds 0.7.
+Display captured photos on a separate screen with complete metadata, including:
+Object Type
+Confidence Level
+Date
+Timestamp
+Architecture
+
+Clean project structure using the MVVM (Model-View-ViewModel) pattern for maintainable and scalable development.
+
+🚀 Getting Started
+Prerequisites
+Flutter SDK version: >=3.5.3
+Android Studio / Xcode (for Android and iOS builds)
+ARCore-supported devices
+Installation
+Clone the repository:
 
 
-- Flutter Object Detection App
+git clone https://github.com/your-repo/flutter-object-detection-app.git  
+Navigate to the project directory:
 
-- Project Description
-  Flutter application integrating object detection, real-time user guidance, and image capture.
 
-- Features
 
-1. ARCore and Marker Placement
-   Real-time placement of visual markers on detected objects in 3D space.
-   Dynamic marker adjustment based on camera movements.
-2. Object Detection with YOLOv8
-   Integrated YOLOv8 for local object detection in real-time.
-   Capable of detecting various objects in diverse environments
-3. Photo Management
-   Capture photos while the confidence is >0.7.
-   View photos in a new screen with metadata of the image captured (Type of object, confidence,date,
-   and timestamp)
-4. project Architecture
-    Using MVVM to handel the project architecture
+cd flutter-object-detection-app  
+Install dependencies:
 
-- Technologies Used
-    1. Flutter for cross-platform development
-    2. ARCore for augmented reality
-    3. YOLOv8 for object detection using tflite_v2
 
-- packages Used
-    1. search_choices: for search with label to get a label that you want to detect
-    2. flutter_screenutil: to make the app responsive
-    3. intl: to formate the DateTime
-    4. tflite_v2 as for to load the model and recognise the object
-    5. camera for Camera preview and get frames to detect
-    6. image: for converter frame to image to use in captured screen
-    7. provider is a stateMangement  
+flutter pub get  
+Run the application:
+
+
+flutter run  
+
     
 - Screen Shots
  
