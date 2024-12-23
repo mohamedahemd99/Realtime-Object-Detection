@@ -1,7 +1,7 @@
 import 'package:camera/camera.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
-import 'package:tflite_v2/tflite_v2.dart';
+import 'package:tflite/tflite.dart';
 
 class TensorFlowService {
   loadModel() async {
